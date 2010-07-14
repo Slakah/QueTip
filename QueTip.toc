@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: QueTip
+## Author: Slakah
+## Notes: Adds Quest progress to the end of tooltips.
+## X-Credits: Quixote, Questsfu and LibQuixote-2.0 by Kamayo
+## X-WoWI-ID: 8234
+## Version: 2.61
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+QueTip.lua
